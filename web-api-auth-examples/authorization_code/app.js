@@ -13,7 +13,7 @@ var querystring = require('querystring');
 var cookieParser = require('cookie-parser');
 
 var client_id = '599c3a9280a243709944d2747d52b883'; // Your client id
-var client_secret = 'c0f8b7945edc4fdaa541bfc504f6aea7'; // Your client secret
+var client_secret = '3c1739cab0ba4494a64eba02d352aaa6'; // Your client secret
 var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
 
 /**
